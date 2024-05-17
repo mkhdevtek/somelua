@@ -1,0 +1,12 @@
+header {
+    /* background image */
+    background-color: aliceblue;
+}
+
+.header-img {
+    background-image: url("./img/tenis1.jpg");
+    /* width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0.8; */
+}
